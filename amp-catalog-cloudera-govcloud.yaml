@@ -9,7 +9,7 @@ entries:
       we intend to peel back the curtains on how an intelligent writing assistant might function — walking through the logical steps needed to automatically re-style a piece of text 
       (from informal-to-formal or subjective-to-neutral) while building up confidence in the model output.
     image_path: >-
-      https://raw.githubusercontent.com/kevinbtalbert/Applied-ML-Prototypes/master/images/intelligent-writing-assistance.png
+      https://raw.githubusercontent.com/kevinbtalbert/GovCloud-Applied-ML-Prototypes/master/images/intelligent-writing-assistance.png
     tags:
       - NLP
       - Text Style Transfer
