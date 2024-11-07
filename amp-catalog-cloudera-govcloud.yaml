@@ -1,0 +1,22 @@
+name: Cloudera
+
+entries:
+  - title: Exploring Intelligent Writing Assistance
+    label: intelligent-writing-assistance
+    short_description: A demonstration of how the NLP task of text style transfer can be applied to enhance the human writing experience using HuggingFace Transformers and Streamlit.
+    long_description: >-
+      The goal of this application is to demonstrate how the NLP task of text style transfer can be applied to enhance the human writing experience. In this sense, 
+      we intend to peel back the curtains on how an intelligent writing assistant might function — walking through the logical steps needed to automatically re-style a piece of text 
+      (from informal-to-formal or subjective-to-neutral) while building up confidence in the model output.
+    image_path: >-
+      https://raw.githubusercontent.com/kevinbtalbert/Applied-ML-Prototypes/master/images/intelligent-writing-assistance.png
+    tags:
+      - NLP
+      - Text Style Transfer
+      - HuggingFace
+      - BERT
+      - BART
+      - Streamlit
+      - PyTorch
+    git_url: "https://github.com/kevinbtalbert/CML_GOV_AMP_Intelligent_Writing_Assistance.git"
+    is_prototype: true
